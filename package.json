@@ -1,6 +1,6 @@
 {
   "name": "babel-istanbul",
-  "version": "0.2.10",
+  "version": "0.3.17",
   "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale",
   "keywords": [
     "coverage",
@@ -79,10 +79,10 @@
   "dependencies": {
     "abbrev": "1.0.x",
     "async": "1.x",
-    "babel-core": "5.6.x",
-    "babel-runtime": "5.6.x",
+    "babel-core": "5.8.20",
+    "babel-runtime": "5.8.20",
     "escodegen": "1.6.x",
-    "esprima": "2.4.x",
+    "esprima": "2.5.x",
     "fileset": "0.2.x",
     "handlebars": "3.0.0",
     "js-yaml": "3.x",
